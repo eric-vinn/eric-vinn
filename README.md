@@ -24,8 +24,8 @@ Hi there, I'm Eric Vincent 👋<br><br>🚀 **Cloud Computing Student | Bangkit 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khovincent&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khovincent&theme=calm_pink&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=eric-vinn&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=eric-vinn&theme=calm_pink&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-vinn&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=khovincent&icon=2&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=eric-vinn&icon=2&color=9)](https://visitcount.itsvg.in)
